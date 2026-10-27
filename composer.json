@@ -36,7 +36,7 @@
     },
     "require-dev": {
         "squizlabs/php_codesniffer": "4.0.4",
-        "slevomat/coding-standard": "8.31.1",
+        "slevomat/coding-standard": "8.31.2",
         "phpcompatibility/php-compatibility": "dev-develop#299a472",
         "phpstan/phpstan": "2.2.15",
         "phpstan/phpstan-strict-rules": "2.0.12"
