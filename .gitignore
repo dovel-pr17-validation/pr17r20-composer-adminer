@@ -1,0 +1,14 @@
+/adminer/adminer.css
+/adminer/adminer-dark.css
+/editor/adminer.css
+/editor/adminer-dark.css
+/adminer*.php
+/editor*.php
+/drivers/
+/tests/screenshots/
+/tests/results/
+/vendor/
+/composer.lock
+/node_modules/
+adminer-plugins/
+adminer-plugins.php
